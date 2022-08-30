@@ -28,12 +28,16 @@
   color: #333;
 }
 
-#output table,th,td{
+#output table,
+th,
+td {
   border: 2px solid black;
 }
-#output th{
+
+#output th {
   color: rgb(243, 11, 11);
 }
-#output table{
+
+#output table {
   background-color: rgb(250, 227, 198);
 }
