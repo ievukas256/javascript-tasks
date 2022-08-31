@@ -52,6 +52,27 @@ form {
   color: #fff;
 }
 
+#output table,
+th,
+td {
+  border: 2px solid black;
+}
+
+#output th {
+  color: rgb(243, 11, 11);
+}
+
+#output table {
+  background-color: rgb(250, 227, 198);
+}
+
+#output {
+  max-width: 50%;
+  margin: 50px auto;
+  display: flex;
+  flex-direction: column;
+}
+
 /* Tablet */
 @media screen and (min-width: 768px) {
   .headline {
