@@ -59,3 +59,11 @@
   border-radius: 5px;
   background-color: #fff;
 }
+
+#output th {
+  color: rgb(175, 7, 105);
+}
+
+#output table {
+  background-color: rgb(250, 227, 198);
+}
